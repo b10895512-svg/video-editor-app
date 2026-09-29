@@ -1,0 +1,7 @@
+gradio
+moviepy
+requests
+openai-whisper
+torch
+nltk
+pillow
